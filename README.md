@@ -1,4 +1,4 @@
-# PETisco - versão quebrada
+# PETisco - versão ajustada
     Este projeto simula uma caixa registradora que deve ser exibida e
     executada no console Portugol.
     Separado por algumas funções e variáveis, o programa consiste em 
